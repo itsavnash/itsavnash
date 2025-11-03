@@ -1,4 +1,4 @@
-#  Hi, I'm Avi  
+#  Hi, I'm Avinash
 
 > *Chasing patterns no one else sees.*  
 

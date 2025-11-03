@@ -1,6 +1,7 @@
 #  Hi, I'm Avinash  
 
 > *Chasing patterns no one else sees.*  
+> *Driven by curiosity and a love for learning how machines think.*
 
 🎯 **AI/ML & Data Science Enthusiast**  
 📚 Currently exploring **Deep Learning** and **Generative AI**  
@@ -37,9 +38,9 @@
 
 <div align="center">
 
-### 🧠 My Learning Journey  
+###  My Learning Journey  
 
-> 📚 Documenting everything I learn   
+> 📚 Documenting everything I learn  
 [![My Learning Repo](https://img.shields.io/badge/Visit%20My%20Learning%20Repo-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsavnash/My_learning)
 
-</div>
+</div>  

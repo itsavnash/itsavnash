@@ -1,9 +1,10 @@
 # Hi, I'm Avi 
 > *Chasing patterns no one else sees.*  
-
 - AI/ML & Data Science Enthusiast  
--  Learning Deep Learning and Generative AI  
-📫 avinashavs40@gmail.com  
+-  Learning Deep Learning and Generative AI
+
+  
+📫 **Reach me at:** avinashavs40@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/avinash40) | [Kaggle](https://www.kaggle.com/avnashk)
 
 

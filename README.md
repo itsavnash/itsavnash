@@ -8,10 +8,10 @@
 ---
 
 ###  GitHub Stats  
-![Avi's GitHub stats](https://github-readme-stats.vercel.app/api?username=avinashavs40&show_icons=true&theme=transparent)
+![Avi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsavnash&show_icons=true&theme=transparent)
 
 ###  Contributions & Streak  
-![GitHub Streak](https://streak-stats.demolab.com?user=avinashavs40&theme=transparent)
+![GitHub Streak](https://streak-stats.demolab.com?user=itsavnash&theme=transparent)
 
 ###  Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashavs40&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsavnash&layout=compact&theme=transparent)

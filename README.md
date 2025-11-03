@@ -1,12 +1,17 @@
-# Hi, I'm Avi 
-> *Chasing patterns no one else sees.*  
-- AI/ML & Data Science Enthusiast  
--  Learning Deep Learning and Generative AI
+#  Hi, I'm Avi  
 
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash40)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/avnashk)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:avinashavs40@gmail.com)
+> *Chasing patterns no one else sees.*  
+
+🎯 **AI/ML & Data Science Enthusiast**  
+📚 Learning **Deep Learning** and **Generative AI**  
+
+---
+
+### 🌐 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash40)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/avnashk)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avinashavs40@gmail.com)
+
 
 
 

@@ -1,13 +1,14 @@
 <div align="center">
-# Hi, I'm Avi  
 
-- AI/ML & Data Science Enthusiast  
-- Learning Deep Learning and Generative AI  
+# Hi, I'm Avi 👋  
 
+  AI/ML & Data Science Enthusiast  
+  Learning Deep Learning and Generative AI  
 📫 avinashavs40@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/avinash40) | [Kaggle](https://www.kaggle.com/avnashk)
 
 </div>
+
 
 ---
 

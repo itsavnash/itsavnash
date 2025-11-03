@@ -15,7 +15,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsavnash&layout=compact&theme=transparent" alt="Top Langs" height="165">
 </p>
 
-### 📂 Featured Projects  
-- 🤖 **AI Chatbot** – Built using Hugging Face transformers for text generation  
-- 📊 **Data Dashboard** – Interactive visualizations with Streamlit  
-- 🧩 **Image Classifier** – CNN model for multi-class image recognition

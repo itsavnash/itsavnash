@@ -7,11 +7,8 @@
 
 ---
 
-###  GitHub Stats  
-![Avi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsavnash&show_icons=true&theme=transparent)
-
-###  Contributions & Streak  
-![GitHub Streak](https://streak-stats.demolab.com?user=itsavnash&theme=transparent)
-
-###  Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsavnash&layout=compact&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsavnash&show_icons=true&theme=transparent" alt="Avi's GitHub stats" height="165">
+  <img src="https://streak-stats.demolab.com?user=itsavnash&theme=transparent" alt="GitHub Streak" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsavnash&layout=compact&theme=transparent" alt="Top Langs" height="165">
+</p>

@@ -1,3 +1,4 @@
+<div align="center">
 # Hi, I'm Avi  
 
 - AI/ML & Data Science Enthusiast  
@@ -6,8 +7,10 @@
 📫 avinashavs40@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/avinash40) | [Kaggle](https://www.kaggle.com/avnashk)
 
+</div>
 
 ---
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsavnash&show_icons=true&theme=transparent" alt="Avi's GitHub stats" height="165">

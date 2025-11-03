@@ -39,9 +39,7 @@
 
 ### 🧠 My Learning Journey  
 
-> 📚 Documenting everything I learn — from **AI/ML fundamentals** to **Generative AI projects**.  
-> 💡 Growing every day, one commit at a time.  
-
+> 📚 Documenting everything I learn   
 [![My Learning Repo](https://img.shields.io/badge/Visit%20My%20Learning%20Repo-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsavnash/My_learning)
 
 </div>

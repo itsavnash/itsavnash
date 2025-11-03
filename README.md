@@ -23,5 +23,14 @@
 
 </div>
 
+---
+---
+
+<div align="center">
+
+###  My Learning Journey  
+[![Learning Repo](https://img.shields.io/badge/My%20Learning%20Repo-Click%20Here-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsavnash/My_learning)
+
+</div>
 
 

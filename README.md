@@ -1,4 +1,5 @@
 # Hi, I'm Avi 
+Chasing patterns no one else sees.
 
 - AI/ML & Data Science Enthusiast  
 -  Learning Deep Learning and Generative AI  

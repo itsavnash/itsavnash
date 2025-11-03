@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Avi 👋  
+# Hi, I'm Avi 
 
   AI/ML & Data Science Enthusiast  
   Learning Deep Learning and Generative AI  

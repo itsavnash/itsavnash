@@ -33,14 +33,4 @@
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avinashavs40@gmail.com)
 
 </div>
-
----
-
-<div align="center">
-
-###  My Learning Journey  
-
-> 📚 Documenting everything I learn  
-[![My Learning Repo](https://img.shields.io/badge/Visit%20My%20Learning%20Repo-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsavnash/My_learning)
-
-</div>  
+ 
